@@ -1,4 +1,4 @@
-# Instagram REST Api
+# Social App
 
 ## Tech Stack
  
